@@ -16,7 +16,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Kentsel Boşluğun Üretimi:İnönü Gezisi (Taksim Gezi Park) / Production of Urban Voids:İnönü Gezisi (Taksim Gezi Park)',
+    title: 'İnönü Gezisi/ Taksim Gezi Park',
     subtitle: '',
     byline: 'BAP_Mapping Metabolism of Istanbul_Interactive Mapping / MEF AAP_027',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -86,7 +86,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/5XGLQ33v/MEF-AAP-027-BAP-PART-II-2025-07-17-14-11-35.png',
+            image: 'https://i.ibb.co/LdMS2NXx/2.png',
             description: '',
             location: {
                 center: [28.98695829360796,41.03896557419026],
@@ -146,7 +146,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/VpJtRxNd/4.png',
+            image: 'https://i.ibb.co/pBxX3BVg/4.png',
             description: '',
             location: {
                 center: [28.98695829360796,41.03896557419026],
@@ -173,7 +173,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/67Krjt5k/51.png',
+            image: 'https://i.ibb.co/yF8fL0qC/5.png',
             description: '',
             location: {
                 center: [28.98695829360796,41.03896557419026],
