@@ -149,9 +149,9 @@ var config = {
             image: 'https://i.ibb.co/pBxX3BVg/4.png',
             description: '',
             location: {
-                center: [28.98695829360796,41.03896557419026],
-                zoom: 19,
-                pitch: 40,
+                center: [28.989309253497957,41.03894888503174],
+                zoom: 16.7,
+                pitch: 0,
                 bearing: 0,
                 speed: 1,
                 curve: 2
@@ -163,7 +163,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -176,9 +176,9 @@ var config = {
             image: 'https://i.ibb.co/yF8fL0qC/5.png',
             description: '',
             location: {
-                center: [28.98695829360796,41.03896557419026],
-                zoom: 19,
-                pitch: 10,
+                center: [28.9852962421309,41.03903638467665],
+                zoom: 16,
+                pitch: 0,
                 bearing: 0,
                 speed: 1,
                 curve: 2
@@ -190,7 +190,7 @@ var config = {
                 //curve: 0, // change the speed at which it zooms out
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
